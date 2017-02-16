@@ -9,13 +9,13 @@
          </span>
     </div>
 
-    简单实现了回车搜索,按钮搜索
+   简单实现了回车搜索,按钮搜索
 
-    应用:
-    	method:获取数据的方法
-    	ng-model:数据模型
-    	placeholder:提示语
+   应用:
+    	method     :获取数据的方法
+    	ng-model   :数据模型
+    	placeholder:placeholder提示语
 
     	<search-box method="getData(name)" ng-model="name" placeholder="keyworlds1"></search-box>
 
-    Tips:可根据自己需求替换HTML模版或添加style 样式;	
+   Tips:可根据自己需求替换HTML模版或添加style 样式;	
